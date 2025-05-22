@@ -10,6 +10,8 @@ logs/
 
 .vscode/
 
+.gsrf
+
 tmp/
 
 simulator/
